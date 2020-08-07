@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FragmentsInteraction2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="item">Item</string>
+    <string name="modelName">modelName</string>
+    <string name="model_company">modelComapny</string>
+    <string name="phone_image">Phone Image</string>
+    <string name="galaxy_fold_info">Samsung Galaxy Fold — первый складной смартфон с гибким 7.3-дюймовым экраном. На крышке у него размещен дополнительный 4.6-дюймовый дисплей Super AMOLED. Он защищен стеклом Corning Gorilla Glass 6.Основная панель имеет разрешение 2152 на 1536 пикселей, а их плотность — приблизительно 414 точек на дюйм. Она тоже производится по технологии Super AMOLED и имеет соотношение сторон 21:9.</string>
+</resources>
